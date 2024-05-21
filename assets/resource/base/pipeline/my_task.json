@@ -1,5 +1,8 @@
 {
-    "MyTask1": {},
-    "MyTask2": {},
-    "MyTask3": {}
+    "启动游戏": {
+        "recognition": "OCR",
+        "expected": "阴阳师",
+        "action": "Click"
+    },
+    "点击登陆": {}
 }
